@@ -30,7 +30,7 @@ You probably got a taste of how good the book is in the first chapter.  Tonight,
 | Zohar | Chapter 2 |
 
 
-To get started, fork this repo, and clone it into your `develop` folder on your local machine. Create a new file called `answers.md`, and respond to the following questions with your thoughts after reading the first chapter:
+To get started, fork this repo, and clone it into your `develop` folder on your local machine. Create a new file called `answers.md`, and respond to the following questions with your thoughts after reading your chapter:
 
 1.  What was the important theme for this chapter?
 2.  How does this chapter tie in what what you know about development in this stage in your career?
